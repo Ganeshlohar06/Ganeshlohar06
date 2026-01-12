@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Springboot,hibernet**
 
-- 💬 Ask me about **reaxt**
+- 💬 Ask me about **java**
 
 - 📫 How to reach me **loharganesh974@gmail.com**
 
