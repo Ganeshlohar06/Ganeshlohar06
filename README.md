@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ganesh</h1>
+<h1 align="center">Hi , I'm GANESH LOHAR</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
 - 🌱 I’m currently learning **Springboot,hibernet**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ganeshlohar06](https://github.com/Ganeshlohar06)
 
 - 💬 Ask me about **java**
 
@@ -10,6 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ganesh-lohar-0066a2333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ganesh-lohar-0066a2333" height="30" width="40" /></a>
+<a href="https://instagram.com/_ganu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ganu02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/8884243084/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/8884243084/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
